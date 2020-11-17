@@ -1,0 +1,24 @@
+program MJTest
+	const bool TRUE = true, FALSE = false;
+	const int C1 = 6, C2 = 10;
+	int x, y, m;
+	char c;
+{
+	void main() 
+	{
+		read(x);
+		
+		y = -x + C1 * C2 - 10 + (-4 + 5) * C2;		//-x + 60		
+		print(y);
+		
+		y = -(8 + 6) * C2; 		//-140	
+		print(y);
+		
+		
+		read(m);
+		print(m);
+		read(c);
+		print(c);
+		
+	}
+}

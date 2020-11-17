@@ -1,0 +1,54 @@
+//Test 302
+
+program test302
+
+const int jedan = 1;
+
+int i;
+bool ibool;
+
+int niz[];
+{
+	
+	int sum(int z, int d)
+	{
+		return z + d;
+	}
+	
+	int inkrement(int a, int inc) 
+	{
+
+		return sum(a,inc);
+	}
+	
+	bool verify() {
+		print('v');
+		return false;
+	}	
+	
+	void main()
+	{ 
+			
+		ibool = false;
+		
+		
+		niz = new int[3];
+		niz[0] = 1;
+		niz[1] = 2;
+		niz[2] = sum(niz[1], niz[0]) + 1;
+		print(niz[2]); //4
+		
+		print(eol);
+		
+		print(len(niz));  //3
+		print(ord('a'));  //97
+		print(ord('b'));  //98
+		print(chr(97));  //a
+		
+		print(sum (sum(niz[0], niz[1]), niz[2])); //7
+			
+		print(eol); 
+		print(inkrement(niz[2], 6)); //10
+	}
+}
+

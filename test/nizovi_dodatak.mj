@@ -1,0 +1,27 @@
+program MJTest
+	int a[];
+	int n;
+{
+	void init_array()
+	int i;
+	{
+		a = new int[n];
+		a[0]=1;
+		a[1]=2;
+		i = a[a[0]];
+		print(i);  // ispis:2
+		print(eol);
+		print(n);
+	}
+	
+
+	void main() 
+	{
+		print('N');
+		read(n);
+		print(eol);
+		
+		init_array();
+	
+	}
+}

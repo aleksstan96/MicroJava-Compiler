@@ -1,0 +1,20 @@
+program MJTest
+	char a[], b[];
+	int n;
+{
+	void init_array()	
+	
+	{
+		read(n);
+		a = new char[n];
+		a[0]='a';
+		a[1]='b';
+	}
+	
+	void main() 
+	{
+		init_array();
+		print(a[0]);
+		print(a[1]);
+	}
+}

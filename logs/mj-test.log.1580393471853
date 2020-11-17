@@ -1,0 +1,36 @@
+INFO  13:52:35,302 - Compiling source file: C:\Users\Aleksandra\Desktop\PP1\projekat\pp1lab.templateAST\workspace\sa150288\test\program.mj
+INFO  13:52:37,286 - #5 program
+INFO  13:52:37,286 - #28 MJTest
+INFO  13:52:37,286 - #28 int
+INFO  13:52:37,343 - #28 a
+INFO  13:52:37,359 - #12 [
+INFO  13:52:37,359 - #13 ]
+INFO  13:52:37,359 - #10 ;
+INFO  13:52:37,359 - #6 {
+INFO  13:52:37,375 - #4 void
+INFO  13:52:37,375 - #28 main
+INFO  13:52:37,375 - #14 (
+INFO  13:52:37,375 - #15 )
+INFO  13:52:37,375 - #28 int
+INFO  13:52:37,375 - #28 x
+INFO  13:52:37,375 - #10 ;
+INFO  13:52:37,375 - #6 {
+INFO  13:52:37,390 - #28 a
+INFO  13:52:37,390 - #11 =
+INFO  13:52:37,390 - #23 new
+INFO  13:52:37,390 - #28 int
+INFO  13:52:37,390 - #12 [
+INFO  13:52:37,390 - #25 3
+INFO  13:52:37,390 - #13 ]
+INFO  13:52:37,468 - #10 ;
+INFO  13:52:37,468 - #28 x
+INFO  13:52:37,468 - #11 =
+INFO  13:52:37,468 - #28 a
+INFO  13:52:37,468 - #12 [
+INFO  13:52:37,531 - #25 1
+INFO  13:52:37,531 - #13 ]
+INFO  13:52:37,531 - #10 ;
+INFO  13:52:37,531 - #7 }
+INFO  13:52:37,640 - #7 }
+INFO  13:52:37,796 - Generating bytecode file: C:\Users\Aleksandra\Desktop\PP1\projekat\pp1lab.templateAST\workspace\sa150288\test\program.obj
+INFO  13:52:37,875 - Parsiranje uspesno zavrseno!
